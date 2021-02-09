@@ -20,3 +20,36 @@ body {
     display: inline-block;
     font-size: 42px;
 }
+
+/* MAIN */
+.contain {
+   
+}
+
+.tab-contain {
+    width: 70%;
+    padding: 20px 65px 10px;
+    margin: 40px auto 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.tab {
+    display: inline-block;
+    width: 75px;
+    height: 25px;
+    background-color: #47adf1;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+    font-size: 13px;
+}
+
+.tab2 {
+    width: 100px;
+    border: 1px solid;
+    color: #d5d9dd;
+    background-color: white;
+    vertical-align: middle;
+}
