@@ -13,13 +13,17 @@ body {
 /* HEADER */
 .head {
     background-color: white;
-    padding: 10px;
+    padding: 15px;
+}
+
+.logo {
+    vertical-align: middle;
 }
 
 .logo-title {
     display: inline-block;
     font-size: 42px;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 /* NAV */
@@ -89,6 +93,18 @@ h2 {
     vertical-align: middle;
 }
 
+.entity-remove {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: red;
+    border: 1px solid;
+    text-align: center;
+    vertical-align: middle;
+    transform: rotate(45deg);
+}
+
 .ticket {
     display: inline-block;
     width: 65px;
@@ -99,4 +115,16 @@ h2 {
     text-align: center;
     line-height: 20px;
     font-size: 12px;
+}
+
+.n2 {
+    background-color: #9c72e4;
+}
+
+.n3 {
+    background-color: #64c0a9;
+}
+
+.n3 {
+    background-color: #f29e3f;
 }
